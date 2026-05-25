@@ -18,8 +18,8 @@
 <br/>
 
 <div align="center">
-  <img height="160em" src="https://streak-stats.demolab.com/?user=dezinelias&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezinelias&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://streak-stats.demolab.com/?user=athr-ocean&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athr-ocean&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0096C7&height=80&section=footer"/>
