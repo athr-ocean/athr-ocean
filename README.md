@@ -9,18 +9,15 @@
 <br/>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B5eTVyOXc2ODF6dHIxZjlpbGx3aXd2N2wzc3p5aGtiNnFvdzlzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLYQnbND9gkYU/giphy.gif" width="200"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B5eTVyOXc2ODF6dHIxZjlpbGx3aXd2N2wzc3p5aGtiNnFvdzlzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLYQnbND9gkYU/giphy.gif" width="500"/>
 </div>
 
 <br/>
 
 <div align="center">
-
-| 🎓 Formação | 🏫 Instituição |
-|---|---|
-| Técnico em Informática | IFSERTÃO-PE · Campus Floresta |
-| Bacharelando em Ciência da Computação | UNIVASF |
-
+  <img src="https://img.shields.io/badge/IFSERTÃO--PE_·_Campus_Floresta-Técnico_em_Informática-0096C7?style=for-the-badge"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/UNIVASF-Ciência_da_Computação-023E8A?style=for-the-badge"/>
 </div>
 
 <br/>
