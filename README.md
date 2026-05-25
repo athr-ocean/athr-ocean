@@ -1,12 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0096C7&height=120&section=header"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=oi%2C+eu+sou+Arthur+Quirino;Computer+Science+student;always+building+something" alt="Typing SVG" />
-</h1>
+<h1 align="center">Arthur Quirino</h1>
 
 <p align="center">
-  Técnico em Informática · <b>IFSERTÃO-PE</b><br/>
-  Bacharelando em Ciência da Computação · <b>UNIVASF</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0096C7&center=true&vCenter=true&width=435&lines=Computer+Science+student;T%C3%A9cnico+em+Inform%C3%A1tica+%C2%B7+IFSERT%C3%A3O-PE;Bacharelando+%C2%B7+UNIVASF;always+building+something" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -21,8 +18,8 @@
 <br/>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dezinelias&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true"/>
+  <img height="160em" src="https://streak-stats.demolab.com/?user=dezinelias&theme=tokyonight&hide_border=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezinelias&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0096C7&height=80&section=footer"/>
