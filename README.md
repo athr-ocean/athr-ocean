@@ -1,16 +1,14 @@
-## Hi there 👋
+## Arthur Quirino!<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI2YTF1ZWVwdGJkNXVpNmVwdGR4aXliaGN6Z2h2bnRpajN1bm9udyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C9p5OvcSFWrte/giphy.gif" width="150">
+- 👾 <b>Cursando Bacharelado em Ciencia da Computação</b><br>
 
-<!--
-**athr-ocean/athr-ocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/dezinelias">
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
