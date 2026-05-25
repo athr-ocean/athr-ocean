@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0096C7&height=160&section=header&text=Arthur%20Quirino&fontSize=52&fontColor=fff&fontAlignY=45&animation=fadeIn&fontStyle=bold"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0096C7&height=160&section=header&text=Arthur%20Quirino&fontSize=62&fontColor=fff&fontAlignY=45&animation=fadeIn&fontStyle=bold&font=Bebas%20Neue"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0096C7&center=true&vCenter=true&width=435&lines=Computer+Science+student;always+building+something" alt="Typing SVG" />
