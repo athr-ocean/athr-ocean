@@ -9,7 +9,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/IFSERTÃO--PE_·_Campus_Floresta-Técnico_em_Informática-0096C7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IFSERTÃO--PE_·_-Técnico_em_Informática-0096C7?style=for-the-badge"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/UNIVASF-Ciência_da_Computação-023E8A?style=for-the-badge"/>
 </div>
