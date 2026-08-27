@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0096C7&height=160&section=header&text=Arthur%20Quirino&fontSize=62&fontColor=fff&fontAlignY=45&animation=fadeIn&fontStyle=bold&font=Bebas%20Neue"/>
 
-<h2 align="center">Ciência da Computação • Desenvolvimento • Tecnologia</h2>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0096C7&center=true&vCenter=true&width=500&lines=Computer+Science+student;always+building+something;learning+%26+creating" alt="Typing SVG" />
 </p>
@@ -33,15 +31,3 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
 </p>
-
-<br/>
-
-<h3 align="center">GitHub Stats</h3>
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athr-ocean&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0096C7&height=80&section=footer"/>
